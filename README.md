@@ -7,7 +7,7 @@
 
 A comprehensive Fullstack Library Management System deployed on Cloud Infrastructure. This project demonstrates the **Polyglot Persistence** architecture by utilizing **MariaDB (SQL)** for transactional data and **MongoDB (NoSQL)** for high-volume audit logging.
 
-🔗 **Video Demo:** [video](https://youtu.be/FKS1l4GORtM)]  
+🔗 **Video Demo:** [video](https://youtu.be/FKS1l4GORtM)  
 
 ---
 
