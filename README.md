@@ -30,6 +30,26 @@ A comprehensive Fullstack Library Management System deployed on Cloud Infrastruc
 
 ---
 
+## 📸 Screenshots
+
+### 📖 Book Inventory (DataTables)
+Manage books with instant search and sorting capabilities.
+![Book Inventory](Screenshots/Book-Inventory.png)
+
+### 👥 Member Management
+Directory of registered library members.
+![Members](Screenshots/Members.png)
+
+### 🤝 Loan Transactions
+Track active loans and overdue items with visual status indicators.
+![Loans](Screenshots/Loans.png)
+
+### 🛡️ Real-time Audit Logs (MongoDB)
+Immutable activity history fetched directly from the NoSQL database.
+![Audit Logs](Screenshots/Audit-Logs.png)
+
+---
+
 ## ☁️ Cloud Architecture (Dewa Cloud)
 
 This application is deployed using a containerized topology:
